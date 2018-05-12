@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/355
     wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37090#Our-Knowledge-of-the-External-World-as-a-Field-for-Scientific-Method-in-Philosophy
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2011-08-15'
 gutenberg_type: Text
